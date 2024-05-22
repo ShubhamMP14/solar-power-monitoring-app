@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "857981910778",
+    "project_id": "solarapplication-2003",
+    "storage_bucket": "solarapplication-2003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857981910778:android:c28339821c7dc173675343",
+        "android_client_info": {
+          "package_name": "com.example.weather"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF07cyI3MAk4rTEK_ItHVNLLbHXgWk3y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

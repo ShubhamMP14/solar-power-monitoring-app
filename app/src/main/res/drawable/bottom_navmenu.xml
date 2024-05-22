@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/homeicon"/>
+    <item android:title="Dashboard"
+        android:id="@+id/dash"
+        android:icon="@drawable/dashicon"/>
+    <item
+        android:id="@+id/test"
+        android:icon="@drawable/baseline_flash_on_24"
+        android:title="Energy Data" />
+    <item android:title="Profile"
+        android:id="@+id/profile"
+        android:icon="@drawable/profileicon"/>
+</menu>
